@@ -1,0 +1,26 @@
+M11
+Ip1 l1 rho1+Ip2 (l2+lext2) Cos[th2]^2+Ip3 (l3+lext3) Cos[th2+th3]^2+(c2 lext2^2+l2^2 (m3+me)+(Ip2 (l2+lext2) rho3)/(2 A3)+1/3 (l2^3+lext2^3) rho3) Sin[th2]^2+(c3 lext3^2+1/2 Ip3 (l3+lext3)+l3^2 me+1/3 (l3^3+lext3^3) rho3) Sin[th2+th3]^2
+
+M12
+0
+
+M13
+0
+
+M21
+0
+
+M22
+c2 lext2^2+c3 lext3^2+l3^2 me+l2^2 (m3+me)+(Ip2 (l2+lext2) rho2)/A2+1/3 (l2^3+lext2^3) rho2+(Ip3 (l3+lext3) rho3)/A3+1/3 (l3^3+lext3^3) rho3
+
+M23
+0
+
+M31
+0
+
+M32
+0
+
+M33
+c3 lext3^2+l3^2 me+(Ip3 (l3+lext3) rho3)/A3+1/3 (l3^3+lext3^3) rho3
